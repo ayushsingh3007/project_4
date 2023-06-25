@@ -1,0 +1,88 @@
+*{margin:0px;
+  padding: 0px;
+  box-sizing: border-box;}
+  .body_container{width:100vw;
+                  height:auto;
+                  background-color: #3D087B;}
+   .main_container{width: 100vw;
+                  height: 80vh;
+                  flex-direction: row;
+                  display: flex;
+                  flex-wrap: wrap;
+                
+                  position: relative;}
+                  .item1{width: 40vw;
+                        height: 45vh;
+                        border: 1px white;
+                        background-color: white;
+                       position: absolute;
+                      top: 25%;
+                      left: 10%;
+                    border-radius: 15px;}
+                      .item2{width: 35vw;
+                        height: 40vh;
+                        border: 1px white;
+                        background-color: white;
+                       position: absolute;
+                      top: 60%;
+                      right: 5%;
+                      padding: 0px;
+                      box-sizing: border-box;
+                    border-radius: 15px;}
+                     .item3{width: 35vw;
+                        height: 16vh;
+                        border: 1px white;
+                        background-color: white;
+                       position: absolute;
+                      top: 35%;
+                      right: 5%;
+                      border-radius: 15px;}
+                      .item4{width: 35vw;
+                        height: 18vh;
+                        border: 1px white;
+                        background-color: white;
+                       position: absolute;
+                      top: 5%;
+                      right: 5%;
+                      border-radius: 15px;
+                      box-shadow: 0px 10px #F6E2FF;}
+                      .item5{width: 40vw;
+                        height: 10vh;
+                        border: 1px white;
+                        background-color: #9140B5;
+                       position: absolute;
+                      top: 85%;
+                      left: 10%;
+                      border-radius: 15px;}
+.item6{position: absolute;
+top: 7%;
+left: 10%;
+width: 12vw;
+height: 12vh;
+border-radius: 50%;}
+.item7{width: 20vw;
+      height: 6vh;
+      border-radius: 15px;
+      color: white;
+       background-image: linear-gradient( to left,#8E53F0,#F25CFE);
+       position: absolute;
+       top: 100%;
+       left:10%;}
+
+
+
+
+
+.imgwakeup{width: 35vw;
+          height: 40vh;}
+ .clock_img{width: 12vw;
+             height: 12vh;} 
+   .button{width: 20vw;
+           height: 6vh;
+           padding: 0px;
+           color: white;
+           word-spacing: 3px;
+           font-weight: bold;
+           font-family: sans-serif;
+            border-radius: 15px;
+           }                  
